@@ -26,7 +26,7 @@ This is a source code of an API that you can find here (free plan available): ht
 
 If everything is OK then you should be able to check your API on `http://127.0.0.1:5000/v0/article`
 
-Example of request: `http://127.0.0.1:5000/v0/article?url=https://www.nytimes.com/2020/03/21/arts/d-nice-instagram.html`
+Example of request: `http://127.0.0.1:5000/v0/article?url=https://forge.medium.com/dont-save-your-fun-for-the-end-of-the-day-add7c1c351f1`
 
 ## Example of Response Body
 ``` 
