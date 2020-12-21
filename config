@@ -1,7 +1,0 @@
-[default]
-region = ap-southeast-1
-output = json
-[zappa]
-region = ap-southeast-1
-output = json
-
