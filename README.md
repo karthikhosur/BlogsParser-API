@@ -1,7 +1,7 @@
 # Extract-Blogs-api
 Flask code to deploy an API that pulls structured data from online Blogs and Articles.
 
-This is a source code of an API that you can find here (free plan available): https://rapidapi.com/kotartemiy/api/extract-news
+This is a source code of an API that you can find here (free plan available): https://rapidapi.com/karthikhosur15/api/blogs-parser
 
 
 
